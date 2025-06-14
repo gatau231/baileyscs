@@ -1,5 +1,5 @@
 {
-  "name": "@bayumahadika/baileysx",
+  "name": "@gatau231/baileyscs",
   "version": "6.10.6",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/bayumahadika/baileysx.git",
+  "homepage": "https://github.com/gatau231/baileyscs.git",
   "repository": {
-    "url": "git@github.com:bayumahadika/baileysx.git"
+    "url": "git@github.com:gatau231/baileyscs.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
